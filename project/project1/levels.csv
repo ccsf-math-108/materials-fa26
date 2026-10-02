@@ -1,0 +1,7 @@
+level,grid,required_squares,optimal_moves,stage
+Tutorial,6x6,32,32,Tutorial
+Level 1,6x6,25,26,Required
+Level 2,8x8,49,49,Required
+Level 3,10x10,84,87,Bonus
+Level 4,12x12,121,121,Bonus
+Level 5,14x14,176,177,Bonus
